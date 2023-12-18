@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading {
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.media-container {
+  width: 90%;
+  max-width: 500px;
+  height: max-content;
+  padding: 1rem;
+}
+
+.video-media {
+  width: 100%;
+  height: 100%;
+}
+
+video {
+  max-width: 100%;
+  height: auto;
+}
