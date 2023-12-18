@@ -17,6 +17,7 @@ body {
   max-width: 500px;
   height: max-content;
   padding: 1rem;
+  margin: auto;
 }
 
 .video-media {
